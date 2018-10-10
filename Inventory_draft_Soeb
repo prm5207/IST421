@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+</style>
+</head>
+<body>
+
+<h2>Our Inventory</h2>
+<style>
+th, td {
+  padding: 5px;
+}
+th {
+  text-align: center;
+}
+</style>
+
+
+<table style="width:30%; float:left">
+  <tr>
+    <td>ItemSerial</td>
+    <th>ItemName</th>
+    <th>ItemID</th> 
+    <th>Price(/Gal)</th>
+  </tr>
+  <tr>
+      <td>1</td>
+    <td>ColorWhite231</td>
+    <td>123</td>
+    <td>50</td>
+  </tr>
+  <tr>
+      <td>2</td>
+    <td>Red234</td>
+    <td>1234</td>
+    <td>40</td>
+  </tr>
+  <tr>
+      <td>3</td>
+    <td>Gray987</td>
+    <td>12345</td>
+    <td>45</td>
+  </tr>
+  </table>
+  <br>
+
+  <table style="width:30%;float: right">
+    <tr>
+      <td>ItemSerial</td>
+      <th>ItemName</th>
+      <th>ItemID</th> 
+      <th>Price(/Gal)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+      <td>ColorWhite231</td>
+      <td>123</td>
+      <td>50</td>
+    </tr>
+    <tr>
+        <td>2</td>
+      <td>Red234</td>
+      <td>1234</td>
+      <td>40</td>
+    </tr>
+    <tr>
+        <td>3</td>
+      <td>Gray987</td>
+      <td>12345</td>
+      <td>45</td>
+    </tr>
+  </table>
+</body>
+</html>
+
+</body>
+</html> 
